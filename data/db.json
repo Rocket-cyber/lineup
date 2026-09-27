@@ -1,8 +1,3505 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T19:39:53.891Z",
-  "maps": [],
-  "mapVersions": [],
-  "points": [],
+  "updatedAt": "2026-09-27T19:42:53.908Z",
+  "maps": [
+    {
+      "id": "4db4f19f-c9cf-424b-8513-2c89a1d66a81",
+      "name": "Abyss",
+      "currentVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "224b0a95-48b9-f703-1bd8-67aca101a61f"
+      }
+    },
+    {
+      "id": "5eb431bb-2b9b-47f1-b093-8bc6d619785d",
+      "name": "Ascent",
+      "currentVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "7eaecc1b-4337-bbf6-6ab9-04b8f06b3319"
+      }
+    },
+    {
+      "id": "6c392a94-3476-4f9d-9249-7e1ed2ef3872",
+      "name": "Bind",
+      "currentVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba"
+      }
+    },
+    {
+      "id": "a969029d-dea4-4e4f-88a8-b82665dce57d",
+      "name": "Breeze",
+      "currentVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "2fb9a4fd-47b8-4e7d-a969-74b4046ebd53"
+      }
+    },
+    {
+      "id": "b8e24304-840f-4b6f-8c35-f4364c6fa9cc",
+      "name": "Corrode",
+      "currentVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "1c18ab1f-420d-0d8b-71d0-77ad3c439115"
+      }
+    },
+    {
+      "id": "24b9f796-a46b-4b51-a1f6-6ba2d4daf4dc",
+      "name": "Fracture",
+      "currentVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "b529448b-4d60-346e-e89e-00a4c527a405"
+      }
+    },
+    {
+      "id": "dff7d22c-7f18-4f26-9c63-fa55f748185d",
+      "name": "Haven",
+      "currentVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047"
+      }
+    },
+    {
+      "id": "dfa1cbc7-5061-4d32-b830-06705acd563e",
+      "name": "Icebox",
+      "currentVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "e2ad5c54-4114-a870-9641-8ea21279579a"
+      }
+    },
+    {
+      "id": "3ccb1fb8-268d-4e0b-9009-5473557d79b8",
+      "name": "Lotus",
+      "currentVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9"
+      }
+    },
+    {
+      "id": "2d5f77d5-bf82-484d-897e-4bc7a03706cc",
+      "name": "Pearl",
+      "currentVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "fd267378-4d1d-484f-ff52-77821ed10dc2"
+      }
+    },
+    {
+      "id": "fbc014af-1e16-4e64-914a-572d750904d7",
+      "name": "Split",
+      "currentVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "d960549e-485c-e861-8d71-aa9d1aed12a2"
+      }
+    },
+    {
+      "id": "61277498-1dcf-46a8-86e7-d8f42fef9c73",
+      "name": "Summit",
+      "currentVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "756da597-416b-c0f2-f47b-afbdf28670bc"
+      }
+    },
+    {
+      "id": "5594125a-f9fe-4f39-8d2d-04994a90a7cc",
+      "name": "Sunset",
+      "currentVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "createdAt": "2026-09-27T19:42:53.907Z",
+      "updatedAt": "2026-09-27T19:42:53.907Z",
+      "source": {
+        "provider": "valorant-api",
+        "uuid": "92584fbe-486a-b1b2-9faa-39b0f486b498"
+      }
+    }
+  ],
+  "mapVersions": [
+    {
+      "id": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "mapId": "4db4f19f-c9cf-424b-8513-2c89a1d66a81",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z",
+      "image": {
+        "imageId": "17e3cca095609ba5261ffae4e22d9d386e5b3f18b54cec9a72aec6b9ce967071",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "466a3d18f78c251b416533959471bdef80b75e9dd3f8a89b1601e6c1ed4d299f",
+        "calib": {
+          "xMultiplier": 0.000081,
+          "yMultiplier": -0.000081,
+          "xScalarToAdd": 0.5,
+          "yScalarToAdd": 0.5
+        }
+      }
+    },
+    {
+      "id": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "mapId": "5eb431bb-2b9b-47f1-b093-8bc6d619785d",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z",
+      "image": {
+        "imageId": "551dcc720ea407d1de5fd28e3cd07ed699ba8c449755b22b0bc052b250b44860",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "287357fcfce230ecb67704cafdb519a5bdb91602ed30f897474a65e86469c550",
+        "calib": {
+          "xMultiplier": 0.00007,
+          "yMultiplier": -0.00007,
+          "xScalarToAdd": 0.813895,
+          "yScalarToAdd": 0.573242
+        }
+      }
+    },
+    {
+      "id": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "mapId": "6c392a94-3476-4f9d-9249-7e1ed2ef3872",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z",
+      "image": {
+        "imageId": "c16b1db7ead92920a0ec87815c2cf46e5f057bdd61a1c6aa8d6bbe6b5b7b57a3",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "84f5ff72aa58bf677617ab5792def847c1c154b38f6e7458f7234121baa3507f",
+        "calib": {
+          "xMultiplier": 0.000059,
+          "yMultiplier": -0.000059,
+          "xScalarToAdd": 0.576941,
+          "yScalarToAdd": 0.967566
+        }
+      }
+    },
+    {
+      "id": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "mapId": "a969029d-dea4-4e4f-88a8-b82665dce57d",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z",
+      "image": {
+        "imageId": "def1a94f3e56ada73b1f3294ce5b9c68539ebad90b24292a1a15f2653bdff09c",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "82c6472afe6f34ac4c0d979fbf6df0a739c174292edf593f29b9495f3b3f84a2",
+        "calib": {
+          "xMultiplier": 0.00007,
+          "yMultiplier": -0.00007,
+          "xScalarToAdd": 0.465123,
+          "yScalarToAdd": 0.833078
+        }
+      }
+    },
+    {
+      "id": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "mapId": "b8e24304-840f-4b6f-8c35-f4364c6fa9cc",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z",
+      "image": {
+        "imageId": "dd066f19f3ab6017965b1f088e9428de8748b8ef57d13e31ff7f170fe95b74e1",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "9f9ed010f502a1146435e779ec2979ce2eb72f78559df19fb89d47e36c98a483",
+        "calib": {
+          "xMultiplier": 0.00007,
+          "yMultiplier": -0.00007,
+          "xScalarToAdd": 0.526158,
+          "yScalarToAdd": 0.5
+        }
+      }
+    },
+    {
+      "id": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "mapId": "24b9f796-a46b-4b51-a1f6-6ba2d4daf4dc",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z",
+      "image": {
+        "imageId": "33b792402cda23565eba1937665f2be430f63e483ee2ab2e3eb3001964359342",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "d41e013eca94e680a61a4d4572929e46d818efce0fb3f065410d9d36399d1a6b",
+        "calib": {
+          "xMultiplier": 0.000078,
+          "yMultiplier": -0.000078,
+          "xScalarToAdd": 0.556952,
+          "yScalarToAdd": 1.155886
+        }
+      }
+    },
+    {
+      "id": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "mapId": "dff7d22c-7f18-4f26-9c63-fa55f748185d",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z",
+      "image": {
+        "imageId": "bc59535a72b2049da1c9f7c6a6f9e2d7c76ea1464167618e81b6205df30ad65b",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "f8ccc9cfffaf3eeed0b735cf3ecffc1ce46f0fbb54bdb69d9ba72b63d32b4936",
+        "calib": {
+          "xMultiplier": 0.000075,
+          "yMultiplier": -0.000075,
+          "xScalarToAdd": 1.09345,
+          "yScalarToAdd": 0.642728
+        }
+      }
+    },
+    {
+      "id": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "mapId": "dfa1cbc7-5061-4d32-b830-06705acd563e",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z",
+      "image": {
+        "imageId": "f1c3a75e345418a3067fb180c53c8ad40f686dfafe8fbf13bbd06376558204ed",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "85b9cef2682985b2cf44f260d995d8123d40246f6d078dbf188fe27ed71723db",
+        "calib": {
+          "xMultiplier": 0.000072,
+          "yMultiplier": -0.000072,
+          "xScalarToAdd": 0.460214,
+          "yScalarToAdd": 0.304687
+        }
+      }
+    },
+    {
+      "id": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "mapId": "3ccb1fb8-268d-4e0b-9009-5473557d79b8",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z",
+      "image": {
+        "imageId": "a937922bde450ad06ed2c594979be2e0541976e29dce1dcdf876649dd1494a85",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "d533af2a6fbc09f12579b2d33438a610d5846db61e56842ad3038087155851c2",
+        "calib": {
+          "xMultiplier": 0.000072,
+          "yMultiplier": -0.000072,
+          "xScalarToAdd": 0.454789,
+          "yScalarToAdd": 0.917752
+        }
+      }
+    },
+    {
+      "id": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "mapId": "2d5f77d5-bf82-484d-897e-4bc7a03706cc",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z",
+      "image": {
+        "imageId": "78c9aa6b3c2a1ce1a5cf8a3123ad64f28c332077729b7a89ddf4e92177071455",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "5e0e7d4a80d830d9b8bb0f265cb14245be583bce87a69d3f53a07e9083ca810c",
+        "calib": {
+          "xMultiplier": 0.000078,
+          "yMultiplier": -0.000078,
+          "xScalarToAdd": 0.480469,
+          "yScalarToAdd": 0.916016
+        }
+      }
+    },
+    {
+      "id": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "mapId": "fbc014af-1e16-4e64-914a-572d750904d7",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z",
+      "image": {
+        "imageId": "48aa5813e0e4ae9eed783878df6286e11687c92ca76044b91103a93b913d741b",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "cc102270353627dab124a7c4ecc429fa150982aa7f243b944ac15f8f83b5b7c8",
+        "calib": {
+          "xMultiplier": 0.000078,
+          "yMultiplier": -0.000078,
+          "xScalarToAdd": 0.842188,
+          "yScalarToAdd": 0.697578
+        }
+      }
+    },
+    {
+      "id": "271433ee-c4d3-402f-94b1-726056358262",
+      "mapId": "61277498-1dcf-46a8-86e7-d8f42fef9c73",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z",
+      "image": {
+        "imageId": "f6a06a3991b4b34c9e3fb34063b314c1cd32ee14a2dd76343c3898a2b6b7bf4d",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "e3ceb9a90958953933aa2e0a7821cb42eb80d622700be89c288d933ac855075f",
+        "calib": {
+          "xMultiplier": 0.000075,
+          "yMultiplier": -0.000075,
+          "xScalarToAdd": 0.047401,
+          "yScalarToAdd": 0.978891
+        }
+      }
+    },
+    {
+      "id": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "mapId": "5594125a-f9fe-4f39-8d2d-04994a90a7cc",
+      "number": 1,
+      "createdAt": "2026-09-27T19:42:53.907Z",
+      "updatedAt": "2026-09-27T19:42:53.907Z",
+      "image": {
+        "imageId": "2aab0f0305ad75fe901a91260053f838ac2c6562666ae2883b128f6e72e6effe",
+        "width": 1024,
+        "height": 1024,
+        "transform": {
+          "scale": 1024,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "mollyRadius": 0.025,
+      "source": {
+        "imageHash": "1188642e2f94f4fbb17d6c61feb9071d349dec21c9749349db710afbc1bbb228",
+        "calib": {
+          "xMultiplier": 0.000078,
+          "yMultiplier": -0.000078,
+          "xScalarToAdd": 0.5,
+          "yScalarToAdd": 0.515625
+        }
+      }
+    }
+  ],
+  "points": [
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "A Bridge",
+      "x": 0.469625,
+      "y": 0.0383,
+      "id": "6654dc1e-2284-4085-8ecb-8183d49a9237",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "A Link",
+      "x": 0.30155,
+      "y": 0.2732,
+      "id": "7e6c98d0-7350-4f49-9fd7-8b3eee40eba8",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "A Lobby",
+      "x": 0.7754000000000001,
+      "y": 0.23674999999999996,
+      "id": "ae572e97-85cd-4545-9f3c-7dc3ec9263a5",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "A Main",
+      "x": 0.63365,
+      "y": 0.19219999999999998,
+      "id": "bf8a9ea1-17b4-4c7c-9d22-bdd3cb789220",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.4838,
+      "y": 0.1517,
+      "id": "97b0f6ce-e35e-4cfd-8df2-88b6be1dd3f5",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.90095,
+      "y": 0.42305,
+      "id": "84ebf85c-17df-429c-8cc2-c5f8dc88a3c2",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "A Tower",
+      "x": 0.489875,
+      "y": 0.25497499999999995,
+      "id": "f2c2f94b-669b-4c63-be8d-5565939cd151",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "Mid Bend",
+      "x": 0.587075,
+      "y": 0.6377,
+      "id": "7dc9b652-d241-4a12-8a23-61af8edf88e6",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "B Link",
+      "x": 0.30965,
+      "y": 0.662,
+      "id": "11d2a2be-9f68-4d52-8c2d-520fe5b26cbe",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "B Lobby",
+      "x": 0.826025,
+      "y": 0.79565,
+      "id": "92e2501b-a17a-4c2b-9a00-1d30c7d75423",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "B Main",
+      "x": 0.623525,
+      "y": 0.8604499999999999,
+      "id": "815a3d98-63c4-4c51-bfd8-865ffe31a98a",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "B Nest",
+      "x": 0.67415,
+      "y": 0.9029750000000001,
+      "id": "06e54e73-ab94-4de7-b2d6-4f7fa98cb9f5",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "Mid Bottom",
+      "x": 0.546575,
+      "y": 0.5324,
+      "id": "6b72eba3-85f6-43a9-a710-5364d804d211",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.404825,
+      "y": 0.858425,
+      "id": "b232d615-bde9-43e9-96b9-a027565ec61d",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "Mid Catwalk",
+      "x": 0.542525,
+      "y": 0.4514,
+      "id": "7cf291d9-645c-4de7-b05c-fc9cc12ab1c6",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "B Danger",
+      "x": 0.5567,
+      "y": 0.9738500000000001,
+      "id": "06684da7-c38f-4b54-a7ba-994e89a90a09",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.07272499999999998,
+      "y": 0.42305,
+      "id": "434a3b2a-022b-43b9-8d35-2e78276c2ac2",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "Mid Library",
+      "x": 0.4514,
+      "y": 0.526325,
+      "id": "8ee5ef75-edae-4603-b6a1-e0123648876b",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "A Secret",
+      "x": 0.18814999999999998,
+      "y": 0.19422499999999998,
+      "id": "1ca3fcfe-169e-4419-93a4-8834a84e3fc9",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "A Security",
+      "x": 0.25902499999999995,
+      "y": 0.10309999999999997,
+      "id": "8c403f55-3342-418c-9e45-cd1db7375440",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "Mid Top",
+      "x": 0.307625,
+      "y": 0.437225,
+      "id": "fd3abba9-3f4c-4489-a495-a1ef7cede5de",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "B Tower",
+      "x": 0.2975,
+      "y": 0.817925,
+      "id": "b0c293d1-a17a-4300-b389-ccfc7bec1200",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "5a0c8767-1595-436c-8284-b27e29c48c23",
+      "type": "callout",
+      "name": "A Vent",
+      "x": 0.473675,
+      "y": 0.36229999999999996,
+      "id": "03b6cb74-390a-45bd-9e6a-466740c867e4",
+      "createdAt": "2026-09-27T19:42:52.980Z",
+      "updatedAt": "2026-09-27T19:42:52.980Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "A Tree",
+      "x": 0.39818194000000007,
+      "y": 0.29457856600000004,
+      "id": "ae8bc850-8c25-45d9-8101-759ffd48f61e",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "A Lobby",
+      "x": 0.602911395,
+      "y": 0.25900976000000003,
+      "id": "94f5f624-bdb8-40db-85ec-8928fc8b3b46",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "A Main",
+      "x": 0.484186082,
+      "y": 0.20072855800000006,
+      "id": "6030c001-4f01-4655-a59f-ed8978618bed",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "A Window",
+      "x": 0.2412465600000001,
+      "y": 0.29163029200000007,
+      "id": "4975674f-5cef-4b1c-8bf1-5ffcf74f1c41",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.35006020200000004,
+      "y": 0.14249105000000006,
+      "id": "8f40d29f-5318-4e75-a90f-8662409d7903",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.817395,
+      "y": 0.569042,
+      "id": "34003c5c-4122-4639-b437-0efea67baf71",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "B Lobby",
+      "x": 0.7165970580000001,
+      "y": 0.677583048,
+      "id": "ff3a098c-14be-494c-9f0e-54ae97ae291d",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "B Main",
+      "x": 0.4050381250000001,
+      "y": 0.712098991,
+      "id": "c0f77188-7ef3-4431-99d4-dc1e72b93983",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "B Boat House",
+      "x": 0.2704599120000001,
+      "y": 0.88717618,
+      "id": "721ae983-bb51-42f6-8ea7-6a913ab7b8ea",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "Mid Bottom",
+      "x": 0.3972757200000001,
+      "y": 0.49468616600000004,
+      "id": "2411a4a9-5eca-40c3-9069-5ecd680e847f",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.2854992300000001,
+      "y": 0.73732655,
+      "id": "f7c8f1a3-3ca2-46e9-aa57-9c91664696ad",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "Mid Catwalk",
+      "x": 0.5249871220000001,
+      "y": 0.411136392,
+      "id": "57774479-01db-4535-9bcb-6056ca5e1a36",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "Mid Cubby",
+      "x": 0.4548115200000001,
+      "y": 0.33612983100000005,
+      "id": "a189f27e-f488-442d-87b3-4827bc333294",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.13175039,
+      "y": 0.43357552200000005,
+      "id": "a00107ef-3561-41cd-b9bc-5b45952dc306",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "A Garden",
+      "x": 0.2853002550000001,
+      "y": 0.309085429,
+      "id": "5aea80a3-f333-4d58-9789-237b68886d75",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "Mid Market",
+      "x": 0.2984716020000001,
+      "y": 0.497004692,
+      "id": "2dcf3e72-9e07-46ac-850b-2540a63bcbba",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "Mid Courtyard",
+      "x": 0.492833,
+      "y": 0.487652797,
+      "id": "85d6e464-0398-45a4-a428-312258c9e84a",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "Mid Link",
+      "x": 0.5142769890000001,
+      "y": 0.617488503,
+      "id": "b6b5e2bf-0eba-466b-8f8a-ae624a39a5d4",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "Mid Pizza",
+      "x": 0.3055430720000001,
+      "y": 0.44713233100000005,
+      "id": "5cd9d7c5-6919-42b0-b850-682437c52bc4",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "A Rafters",
+      "x": 0.23919500000000005,
+      "y": 0.14414949000000005,
+      "id": "eb8063e4-5eca-4bfc-b8ab-056f81faef2a",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "Mid Top",
+      "x": 0.6648219150000001,
+      "y": 0.380466921,
+      "id": "550c5d52-ccea-46ee-8852-c993174f2ab3",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "type": "callout",
+      "name": "A Wine",
+      "x": 0.48564606500000007,
+      "y": 0.058130151000000074,
+      "id": "5ad6cfdb-32bc-41fe-93c7-efaccb7b1e48",
+      "createdAt": "2026-09-27T19:42:53.056Z",
+      "updatedAt": "2026-09-27T19:42:53.056Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "A Exit",
+      "x": 0.923536323,
+      "y": 0.5220917746,
+      "id": "3af9e432-00f7-498d-ae1d-b42d419557a5",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "A Link",
+      "x": 0.5175267728,
+      "y": 0.5919935350000001,
+      "id": "7586c7f4-46de-434c-a07f-aad276144d26",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "A Lobby",
+      "x": 0.763311557,
+      "y": 0.6068848990000001,
+      "id": "b0a69f14-ae95-4388-9579-9303514cf650",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "A Short",
+      "x": 0.6243746771700001,
+      "y": 0.49654854470000004,
+      "id": "c2832dad-4cc3-4118-a4d4-e56be2c79820",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.7341431724,
+      "y": 0.333439782,
+      "id": "179d5b1f-5b4f-4218-bddc-8c1b26192180",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "A Teleporter",
+      "x": 0.6058439377,
+      "y": 0.41106012300000005,
+      "id": "a89efd00-abe2-4a6e-b6ae-257b2c7393c9",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.58151415372,
+      "y": 0.95802874912,
+      "id": "354c46ca-1c3a-479b-8536-53bb88a3350a",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "B Exit",
+      "x": 0.47291045950000005,
+      "y": 0.44120269200000006,
+      "id": "5f9c1239-172c-4d56-adc5-f25b826df74d",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "B Hall",
+      "x": 0.28537749040000004,
+      "y": 0.20163513900000007,
+      "id": "2e3d94a0-f56f-4791-b0bd-66b12c60d68b",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "B Link",
+      "x": 0.42229120890000005,
+      "y": 0.5922333700000001,
+      "id": "dc9d8136-38bd-447c-922e-a8f55ece07c3",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "B Fountain",
+      "x": 0.25890468600000005,
+      "y": 0.6290742444,
+      "id": "e88d7d72-3647-4e50-ad98-29c5b2932e89",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "B Long",
+      "x": 0.19268567020000005,
+      "y": 0.515232529,
+      "id": "d60e97b8-9a69-40df-a6fc-63b10f981696",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "B Short",
+      "x": 0.3966102671,
+      "y": 0.5295422533,
+      "id": "479f8dac-0157-41f0-9b4c-0e9c29cdcf77",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.2918849485000001,
+      "y": 0.3121876280000001,
+      "id": "a0e4e45f-fa3a-4ed5-8c77-e7ae450a6335",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "B Teleporter",
+      "x": 0.15073641060000004,
+      "y": 0.43492721600000006,
+      "id": "1cfb2ebd-791a-45f4-b8be-5af0538b09d6",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "B Window",
+      "x": 0.32268571560000003,
+      "y": 0.44678550800000005,
+      "id": "89a68ea1-f8e5-40bd-b4fb-1a8ba8fe1b31",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "A Bath",
+      "x": 0.8394708633000001,
+      "y": 0.43028008100000015,
+      "id": "06624497-1390-4690-a65f-e00bed315858",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "Attacker Side Cave",
+      "x": 0.59210057387,
+      "y": 0.7362630667000001,
+      "id": "a69b2887-169a-455e-a762-c4bfe90dbcd2",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "A Cubby",
+      "x": 0.5872600008800001,
+      "y": 0.45986108800000003,
+      "id": "50ed49e7-0609-432c-8ff2-c99aa178292a",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.5168982163,
+      "y": 0.10369283800000006,
+      "id": "b55ea291-0ef0-4ebe-b68c-e947c4b182c6",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "B Elbow",
+      "x": 0.15831632350000008,
+      "y": 0.306004841,
+      "id": "e035b9cc-b78e-4830-9eb0-390aa93a78cb",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "B Garden",
+      "x": 0.24665148340000004,
+      "y": 0.42806392300000007,
+      "id": "da95b13b-7076-4068-88e4-b1dea9a2ca45",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "A Lamps",
+      "x": 0.5816553616060001,
+      "y": 0.3392472110000001,
+      "id": "1046a459-6de0-44f3-8cd6-bfd3cd379938",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "1a67b51d-87ba-47e6-beef-337b71c9becc",
+      "type": "callout",
+      "name": "A Tower",
+      "x": 0.7277904772,
+      "y": 0.20808360300000006,
+      "id": "5f6e2249-478f-46c7-9229-1ba95645efc6",
+      "createdAt": "2026-09-27T19:42:53.145Z",
+      "updatedAt": "2026-09-27T19:42:53.145Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "Mid Hall",
+      "x": 0.639496451,
+      "y": 0.5351180090000001,
+      "id": "80a8dfa5-6b93-473a-918d-311788b8eebe",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "A Bridge",
+      "x": 0.711873,
+      "y": 0.24507800000000002,
+      "id": "f74a689b-0d11-4ff6-bcaa-f269c9622774",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.711873,
+      "y": 0.210078,
+      "id": "6f18d063-4a5e-4814-ae4d-a6846f87ffdc",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "Defender Side Arches",
+      "x": 0.374123,
+      "y": 0.17507800000000007,
+      "id": "6e90854d-19ab-4e99-9c8f-503883058d3e",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "Mid Wood Doors",
+      "x": 0.6436230000000001,
+      "y": 0.495328,
+      "id": "345691a5-7b29-4a5c-a8c6-e4d7ea3fd12b",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "Mid Pillar",
+      "x": 0.498373,
+      "y": 0.5408280000000001,
+      "id": "b3836070-e6c8-4934-8e89-240c2e003bf5",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "Mid Top",
+      "x": 0.501873,
+      "y": 0.400828,
+      "id": "6109e1c0-520b-4482-9be6-b78f451d8c50",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "Mid Nest",
+      "x": 0.484373,
+      "y": 0.22757800000000006,
+      "id": "4dcbd612-2376-4282-8adb-435e604a0def",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "B Window",
+      "x": 0.17287300000000005,
+      "y": 0.6773279999999999,
+      "id": "c5820296-7523-4158-8446-df5bf60739cc",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "B Main",
+      "x": 0.153623,
+      "y": 0.584578,
+      "id": "b00e6510-1e8c-47cf-badd-ab5e5ca8f91a",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "B Elbow",
+      "x": 0.262123,
+      "y": 0.5058279999999999,
+      "id": "5db15add-a5cd-4dcc-9f3f-9ea0fe43d929",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.06962300000000005,
+      "y": 0.38157800000000003,
+      "id": "d66a78cf-cc12-4dca-8a5b-38e33c3c1394",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "B Tunnel",
+      "x": 0.36362300000000003,
+      "y": 0.38157800000000003,
+      "id": "e6d1a0b0-d6b9-4442-bfb4-5f59b9f0ed96",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "A Ramp",
+      "x": 0.6558729999999999,
+      "y": 0.322078,
+      "id": "366de376-cc43-43bf-bbf3-ac7867b7ab59",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "B Back",
+      "x": 0.06787300000000002,
+      "y": 0.304578,
+      "id": "cd684c55-3493-4666-9fc4-b83dd50d7703",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "B Wall",
+      "x": 0.255123,
+      "y": 0.23457800000000006,
+      "id": "d688e39c-9df3-453f-8af8-5992ae8b8ab6",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "Mid Cannon",
+      "x": 0.335623,
+      "y": 0.630078,
+      "id": "06fc1628-38a9-4e86-8d1c-a1555102dea6",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "Mid Bottom",
+      "x": 0.498373,
+      "y": 0.722828,
+      "id": "69b6d346-8b0f-4a9b-a53e-d6164f088c53",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "A Lobby",
+      "x": 0.7031229999999999,
+      "y": 0.920578,
+      "id": "ef838774-b3c2-4f74-ad64-5c31ecce5d51",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "A Shop",
+      "x": 0.762623,
+      "y": 0.682578,
+      "id": "962028f9-9475-4ad8-826b-81f8c5d66bd9",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.9078729999999999,
+      "y": 0.495328,
+      "id": "77752a57-9f6b-447e-88ea-09bcc02c43e7",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "A Pyramids",
+      "x": 0.8466229999999999,
+      "y": 0.469078,
+      "id": "17f946bb-55de-4008-804b-ed68e3bc5960",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "09354c78-bbd5-493a-806b-6fa844fd2eb0",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.433623,
+      "y": 0.873328,
+      "id": "4b7ce0dd-fde3-450e-be6d-5e050e0f8de8",
+      "createdAt": "2026-09-27T19:42:53.216Z",
+      "updatedAt": "2026-09-27T19:42:53.216Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "A Crane",
+      "x": 0.24619316800000002,
+      "y": 0.187919938,
+      "id": "73576b69-88a6-4068-9964-3f7d012d0758",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "A Elbow",
+      "x": 0.38094303500000004,
+      "y": 0.109170449,
+      "id": "35c61718-f7e1-44ed-a3e4-2b11e77c817b",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "A Link",
+      "x": 0.45269248900000003,
+      "y": 0.375170449,
+      "id": "198cb7f6-6ff5-40e2-8830-eed062a174f1",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "A Lobby",
+      "x": 0.708192832,
+      "y": 0.19667044900000002,
+      "id": "cc395ff6-551d-457c-b8c7-bf16ef83e55b",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "A Main",
+      "x": 0.611942839,
+      "y": 0.08467044900000004,
+      "id": "57de1424-3f2a-4752-8a40-81a6e85afe0c",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "A Pocket",
+      "x": 0.47019303500000004,
+      "y": 0.109170449,
+      "id": "bee7147e-3847-419a-87af-cdfba562dcbc",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.398442972,
+      "y": 0.257920449,
+      "id": "168aacb0-83ad-42f8-9589-28cddb333b31",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.923408,
+      "y": 0.50175,
+      "id": "bd815158-5350-45a5-bd23-3c140e8e1d28",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "A Yard",
+      "x": 0.4701928208,
+      "y": 0.19667044900000002,
+      "id": "19342de8-8177-4301-9cc5-b141d05bb59f",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "B Arch",
+      "x": 0.21819190800000005,
+      "y": 0.725169938,
+      "id": "ad0da7f8-0bfa-4d18-8f95-67d47c118e91",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "B Elbow",
+      "x": 0.321441719,
+      "y": 0.891420652,
+      "id": "4479b08e-477f-4296-a7b5-d328237c23d6",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "B Link",
+      "x": 0.39844234900000003,
+      "y": 0.5904202949999999,
+      "id": "e44b818a-f7e9-4944-abf7-37cd3732502f",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "B Lobby",
+      "x": 0.720442125,
+      "y": 0.616670848,
+      "id": "d1c10921-3655-42e6-a322-641a1c21fb76",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "B Main",
+      "x": 0.578692034,
+      "y": 0.6901706519999999,
+      "id": "7edc515a-33b1-40e0-bcc2-bddf99a02769",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "Mid Bottom",
+      "x": 0.5384423504,
+      "y": 0.4906705701,
+      "id": "808cb99e-433c-4d4f-86c1-9d9cdfee0e1a",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.44394203400000004,
+      "y": 0.690170638,
+      "id": "2b5a8f08-4f8c-4826-9eff-2d2993f8730e",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "B Tower",
+      "x": 0.321441719,
+      "y": 0.746170652,
+      "id": "033b3675-4f15-4888-8c54-006f8faad693",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.12369251000000009,
+      "y": 0.49941994073,
+      "id": "cc17c983-92fa-4745-8ce1-fb67e31e39f7",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "Mid Stairs",
+      "x": 0.42294234900000005,
+      "y": 0.4906703531,
+      "id": "0f8851ac-f42e-4a06-92e5-c97d45eaab96",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "Mid Window",
+      "x": 0.30919234900000003,
+      "y": 0.4906701053,
+      "id": "4d9c44fe-ba72-4380-85f1-0040738cff4b",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "8073fb24-2bd6-468d-8253-c46c5e792be4",
+      "type": "callout",
+      "name": "Mid Top",
+      "x": 0.39844234900000003,
+      "y": 0.490670295,
+      "id": "e68f25cb-15db-4cb2-bfae-473ef13157f5",
+      "createdAt": "2026-09-27T19:42:53.286Z",
+      "updatedAt": "2026-09-27T19:42:53.286Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "Attacker Side Bridge",
+      "x": 0.497984,
+      "y": 0.12597400000000003,
+      "id": "ed1dfa8b-1436-4c49-bb2a-a95870459049",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "B Bench",
+      "x": 0.330986,
+      "y": 0.260992,
+      "id": "1f778db4-0179-40fd-b6a7-086b40b69eea",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "B Arcade",
+      "x": 0.23099000000000003,
+      "y": 0.361768,
+      "id": "d1770654-92b8-4866-b496-56ed705b64c0",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "B Tower",
+      "x": 0.12007400000000001,
+      "y": 0.44179599999999997,
+      "id": "7f88b9a3-6e4f-44fd-8212-1360e5907723",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.093476,
+      "y": 0.518002,
+      "id": "66103488-0025-4c1a-a52a-60a3f02dbf77",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "B Generator",
+      "x": 0.293312,
+      "y": 0.5036499999999999,
+      "id": "68a563a3-6e06-4c4b-a62e-a87127aa3e75",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "B Link",
+      "x": 0.343154,
+      "y": 0.438442,
+      "id": "5209032d-6eba-46ef-91e4-2dcd5a28a914",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "B Canteen",
+      "x": 0.312188,
+      "y": 0.601228,
+      "id": "089e8f42-14e9-4fde-945e-f7c72bf5d760",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "A Link",
+      "x": 0.658508,
+      "y": 0.48680199999999996,
+      "id": "3e0b6978-2dbb-4f33-8106-23e4d88874d7",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.504146,
+      "y": 0.44171799999999994,
+      "id": "dcf4cca1-4fc3-48ff-8a49-4e3f22fb4786",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "B Main",
+      "x": 0.140198,
+      "y": 0.69046,
+      "id": "a0af9164-d03d-4797-95c7-b0c975b13644",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "B Tree",
+      "x": 0.23645,
+      "y": 0.768616,
+      "id": "17c0db57-8930-4a46-84fd-66d1420b3a78",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "B Tunnel",
+      "x": 0.24042800000000003,
+      "y": 0.57853,
+      "id": "b4f0a483-886a-4c7d-a66b-8072d9d93c5c",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "A Hall",
+      "x": 0.7174498544,
+      "y": 0.7609293807999999,
+      "id": "e55fbf86-01f3-4e57-b405-e25cf5749ee2",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "A Door",
+      "x": 0.7083079033999999,
+      "y": 0.70287331,
+      "id": "b9120f19-2962-4609-b833-5361f866106b",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "A Rope",
+      "x": 0.6390583958,
+      "y": 0.638057416,
+      "id": "8244b6c6-6776-4f37-b619-e759ef479850",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "A Main",
+      "x": 0.8261271842,
+      "y": 0.697340224,
+      "id": "03db67d4-dbeb-4255-a121-ac6ced886041",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.8201073158,
+      "y": 0.5220765093999999,
+      "id": "a8eae32d-82ee-47db-a9eb-f19f0410bed1",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "A Drop",
+      "x": 0.7773926828,
+      "y": 0.42995536599999995,
+      "id": "140364a2-4556-499d-a130-cb5ae7991471",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "A Dish",
+      "x": 0.6655057232,
+      "y": 0.2747461299999999,
+      "id": "d0948c33-457a-4ce7-a268-399b0bb22252",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "A Gate",
+      "x": 0.679022,
+      "y": 0.14484999999999992,
+      "id": "c00c7f96-1123-4c5a-b8c7-10cb220dc7b4",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "0378685b-7a0b-4578-9fe6-ef403a75c4b2",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.48297286100000003,
+      "y": 0.8169327879999999,
+      "id": "10451939-0682-434a-805d-c017384e1df7",
+      "createdAt": "2026-09-27T19:42:53.359Z",
+      "updatedAt": "2026-09-27T19:42:53.359Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "A Garden",
+      "x": 0.7421798800000001,
+      "y": 0.410208425,
+      "id": "5e2a2325-2fc4-443e-8f24-25a27d53b93c",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "A Link",
+      "x": 0.2897740000000001,
+      "y": 0.324396395,
+      "id": "bf8c14c9-7373-4b0c-b38e-e0cef769c0e9",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "A Lobby",
+      "x": 0.6239193250000001,
+      "y": 0.384837725,
+      "id": "4ce02c88-05fb-464b-bd48-afb3e22cc3bb",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "A Long",
+      "x": 0.5758643500000001,
+      "y": 0.177000875,
+      "id": "28f421c6-f8be-4c3a-b70a-1bd4a95d883f",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "A Sewer",
+      "x": 0.49977065500000006,
+      "y": 0.38376248749999997,
+      "id": "74e36be0-4966-4a67-b653-68d43abefdbb",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.40152227500000015,
+      "y": 0.16952993,
+      "id": "f072a18e-e432-4a66-ac40-f80ac30f7bdb",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.8952405625000001,
+      "y": 0.512095835,
+      "id": "add21558-4532-4577-bc92-c3c07c34daaa",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "B Back",
+      "x": 0.29359187500000017,
+      "y": 0.49526593999999996,
+      "id": "8e9d520a-cb4c-4f3a-ac70-de6894004397",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.4010998750000001,
+      "y": 0.50137505,
+      "id": "b1822cbc-fb55-4c70-912c-54e273741fd1",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "C Link",
+      "x": 0.34311887500000005,
+      "y": 0.6493101082999999,
+      "id": "adb41d77-ad01-47e0-9fcd-74fb938642bb",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "C Lobby",
+      "x": 0.664424125,
+      "y": 0.765892175,
+      "id": "2aec418c-2416-408f-a237-267a60c047e3",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "C Long",
+      "x": 0.6441346000000001,
+      "y": 0.89448905,
+      "id": "658da9bc-8c76-416f-bd86-b338b57ae884",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "C Garage",
+      "x": 0.49348116250000007,
+      "y": 0.6292222415,
+      "id": "32ded62c-4997-4546-9b64-4ad13277db31",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "C Window",
+      "x": 0.41895692500000015,
+      "y": 0.64348750085,
+      "id": "08ef6a4f-c997-48d3-aa30-d0410ef6c034",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "spike",
+      "name": "C Site",
+      "x": 0.41765822500000005,
+      "y": 0.82108796,
+      "id": "de941683-0463-4844-8fbb-26ebd2d8d041",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "C Cubby",
+      "x": 0.6013297750000001,
+      "y": 0.8017106974999999,
+      "id": "6f348e36-a505-4630-b06b-0fe3f76337ad",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.1398469750000001,
+      "y": 0.421755185,
+      "id": "685b5739-73eb-4cac-8c14-d3492af58c55",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "Mid Doors",
+      "x": 0.6237313375000001,
+      "y": 0.6313943045,
+      "id": "b3cc9944-4323-4ec0-a980-efbc0740e2cb",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "Mid Courtyard",
+      "x": 0.5899984375,
+      "y": 0.5060682575,
+      "id": "28c6fe7f-4cf4-476b-ae95-6c1298ee1806",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "Mid Window",
+      "x": 0.6758566,
+      "y": 0.496461365,
+      "id": "a0c8e769-8866-4a75-aa93-1cbc25d1806a",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "92f0dcaf-9ab0-4371-b655-c643c3b52829",
+      "type": "callout",
+      "name": "A Tower",
+      "x": 0.30801096250000004,
+      "y": 0.1386226775,
+      "id": "a70c1de7-b541-4af4-9fe8-da0843d6b989",
+      "createdAt": "2026-09-27T19:42:53.437Z",
+      "updatedAt": "2026-09-27T19:42:53.437Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Garage",
+      "x": 0.357614,
+      "y": 0.394687,
+      "id": "4cbfb150-f1c4-4d42-9f9a-da09e8e4af00",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "A Belt",
+      "x": 0.399014,
+      "y": 0.8230869999999999,
+      "id": "d17d77a5-c477-4e00-9ec4-9d18fa120f97",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "A Nest",
+      "x": 0.525014,
+      "y": 0.783487,
+      "id": "5d21a7c7-ef80-42a1-8b17-7e20e8b58974",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "A Pipes",
+      "x": 0.492614,
+      "y": 0.747487,
+      "id": "fc31ab01-415b-44f5-b097-d3d869455fde",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "A Rafters",
+      "x": 0.766214,
+      "y": 0.7690870000000001,
+      "id": "a5a7786d-4ec1-4c17-8160-b0d3b0553746",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "A Screen",
+      "x": 0.699614,
+      "y": 0.671887,
+      "id": "b5718618-0db6-4a1c-99eb-64acc083cc8f",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.6906140000000001,
+      "y": 0.765487,
+      "id": "ffb1c6d9-079d-4f0b-9a9b-9668075c9b12",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.139814,
+      "y": 0.587287,
+      "id": "9d1f3c0a-9c12-4a25-a53b-a88de737a14c",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Yellow",
+      "x": 0.458414,
+      "y": 0.15708699999999998,
+      "id": "fc3e3c80-321a-40b0-bdbe-ec9d8fbcddc9",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Back",
+      "x": 0.767582,
+      "y": 0.286615,
+      "id": "a99500b9-41c8-4611-a39d-ba2046e9d0f2",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Cubby",
+      "x": 0.390014,
+      "y": 0.22908699999999999,
+      "id": "6ce87cb7-9e18-41d1-82f7-983413121b21",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Green",
+      "x": 0.409814,
+      "y": 0.33708699999999997,
+      "id": "4be9028e-88aa-49f6-bab9-cbeeb2e4e668",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Hall",
+      "x": 0.679814,
+      "y": 0.283087,
+      "id": "97c52d8d-54b3-4239-add6-009a73eed5d5",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Hut",
+      "x": 0.7770140000000001,
+      "y": 0.40728699999999995,
+      "id": "d866e374-2877-4924-8a0c-94ff82cc5361",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Kitchen",
+      "x": 0.7052767280000001,
+      "y": 0.4646250496,
+      "id": "1bfdb08a-5b84-4ad4-8521-41d2ca6acc93",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Orange",
+      "x": 0.582614,
+      "y": 0.350191,
+      "id": "ef5c2579-69cf-4341-8a8d-a4efb4834e44",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.645614,
+      "y": 0.18048699999999998,
+      "id": "1502aee1-ed9a-4fb2-8e1c-06445dad112d",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Snowman",
+      "x": 0.7453571696000001,
+      "y": 0.14268699999999998,
+      "id": "47580bf7-d95d-4bb7-8794-a531733e8be2",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Snow Pile",
+      "x": 0.6402140000000001,
+      "y": 0.43248699999999995,
+      "id": "6d32b421-ce0b-4a94-a1d4-01552a309c1a",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Tube",
+      "x": 0.552014,
+      "y": 0.470287,
+      "id": "433708d2-25b2-44d0-b566-be1422874bd5",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.969614,
+      "y": 0.574687,
+      "id": "d053ff0e-14bd-4f98-8c1e-f97f9702a639",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "Mid Blue",
+      "x": 0.530414,
+      "y": 0.508087,
+      "id": "782cf2ca-8255-4318-a8e8-41685e1588c9",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "Mid Boiler",
+      "x": 0.670814,
+      "y": 0.547687,
+      "id": "fc44be8c-5394-461b-8d44-19eac6356766",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "Mid Pallet",
+      "x": 0.588014,
+      "y": 0.625087,
+      "id": "dfdb037a-5212-4aba-9914-acf040077a6c",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "eb8f290d-a166-4ca8-bb01-6a5f246316fe",
+      "type": "callout",
+      "name": "B Fence",
+      "x": 0.7190540000000001,
+      "y": 0.278551,
+      "id": "3ec86201-d735-448a-8e03-fd5dd6b86a4b",
+      "createdAt": "2026-09-27T19:42:53.522Z",
+      "updatedAt": "2026-09-27T19:42:53.522Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Top",
+      "x": 0.8180713648,
+      "y": 0.2510104000000001,
+      "id": "58a8b016-488e-4242-85e7-f772270baef1",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Drop",
+      "x": 0.8934773392,
+      "y": 0.23257264,
+      "id": "d0639d1c-1304-49ea-a39a-8b70c25bae3d",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.854915248,
+      "y": 0.3607931488,
+      "id": "a82a0625-77f3-44b6-abad-2ff599a09e11",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Hut",
+      "x": 0.854915248,
+      "y": 0.3476947792,
+      "id": "128e8979-7516-4bd0-9b60-68ba72286902",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Tree",
+      "x": 0.854915248,
+      "y": 0.4749862,
+      "id": "6044278f-7d86-4bcf-a751-7de1bdadd395",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Door",
+      "x": 0.82947052,
+      "y": 0.5139215464,
+      "id": "20158f2e-2097-42af-b479-bd7bfa5aa859",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Main",
+      "x": 0.754291864,
+      "y": 0.5369942416,
+      "id": "59e97714-970f-49a4-878b-251c64e04c3c",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Rubble",
+      "x": 0.808898608,
+      "y": 0.6008748664000001,
+      "id": "61758da1-9963-462b-b8de-4b5482a53979",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Root",
+      "x": 0.6919679656,
+      "y": 0.6008748664000001,
+      "id": "6a83a977-8c24-40a7-8484-87f0d94059ec",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Lobby",
+      "x": 0.665545636,
+      "y": 0.724363528,
+      "id": "f5051196-b3c4-486d-9861-b361260b5dc4",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "C Lobby",
+      "x": 0.3412746352,
+      "y": 0.816695068,
+      "id": "2655cc7e-4657-41d4-baf0-1fd86d9b3a08",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "B Pillars",
+      "x": 0.50289818824,
+      "y": 0.6610454248,
+      "id": "f9f5946a-056f-4477-8e85-c395765dd147",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "B Main",
+      "x": 0.4513422196,
+      "y": 0.566620096,
+      "id": "3aefdc30-a423-4f9e-ac14-52246c3a61ad",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "C Door",
+      "x": 0.3285872488,
+      "y": 0.570808084,
+      "id": "e7b26b62-7357-43c6-85a3-a5a802ca66ff",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.50289818824,
+      "y": 0.45925364560000004,
+      "id": "70b37658-421e-43b2-a0ad-05a898992006",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Link",
+      "x": 0.6051000016,
+      "y": 0.4849552192,
+      "id": "bfea7908-0756-43fd-9b49-9c4bef69bad4",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "B Upper",
+      "x": 0.5640389632,
+      "y": 0.36458010399999996,
+      "id": "a8aaa276-2381-412c-a700-1a62c68f6ce1",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "C Waterfall",
+      "x": 0.31119950080000003,
+      "y": 0.433926112,
+      "id": "fa512fbc-593b-4406-83f2-e8994d52f129",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "C Link",
+      "x": 0.35558070399999997,
+      "y": 0.37745615199999993,
+      "id": "587d18a9-6ed6-432a-8ec8-4e2b58e7cdbc",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "A Stairs",
+      "x": 0.7327760463999999,
+      "y": 0.32318499999999994,
+      "id": "74f0f0c4-7dd9-401e-8590-39fee0528ead",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "C Mound",
+      "x": 0.3412746352,
+      "y": 0.6395642824000001,
+      "id": "bcb3b3ab-51f7-4e56-a3a2-0f732c347023",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "C Main",
+      "x": 0.228121336,
+      "y": 0.5353409488,
+      "id": "fe62478c-ffa6-46d5-886f-6a570fdbfadc",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "C Bend",
+      "x": 0.07452535599999999,
+      "y": 0.510410416,
+      "id": "b046cd07-8af1-4f72-bfa6-e3923b44c624",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "spike",
+      "name": "C Site",
+      "x": 0.14764592799999998,
+      "y": 0.43703222080000004,
+      "id": "c7ca18c0-ef0d-499f-a300-ba3576d8015a",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "C Hall",
+      "x": 0.14764592799999998,
+      "y": 0.348803572,
+      "id": "8c817648-d1a0-45a5-bc4b-3059f8cd37c5",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "C Gravel",
+      "x": 0.3286243072,
+      "y": 0.274296568,
+      "id": "1cdff164-f92d-4753-a7b0-e2848ab144d6",
+      "createdAt": "2026-09-27T19:42:53.591Z",
+      "updatedAt": "2026-09-27T19:42:53.591Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.5770322056,
+      "y": 0.22030477599999998,
+      "id": "f3fdcefb-c315-4d20-888e-2c7fab2d3f16",
+      "createdAt": "2026-09-27T19:42:53.592Z",
+      "updatedAt": "2026-09-27T19:42:53.592Z"
+    },
+    {
+      "mapVersionId": "1219be91-fd83-4c9c-9d7c-79f4e9568a1e",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.51075448048,
+      "y": 0.816859012,
+      "id": "d9a37113-bae7-4bd4-aa01-6e805186c419",
+      "createdAt": "2026-09-27T19:42:53.592Z",
+      "updatedAt": "2026-09-27T19:42:53.592Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "B Hall",
+      "x": 0.09404607999999998,
+      "y": 0.3313578194000001,
+      "id": "e5c52147-949f-4f87-847a-6f1cf3bf294b",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "Mid Doors",
+      "x": 0.5270531623,
+      "y": 0.5493192800000001,
+      "id": "3075c143-b6e0-4ce4-be96-d92ceeb1ba75",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "Mid Connector",
+      "x": 0.6208724008,
+      "y": 0.44434638080000005,
+      "id": "587682e2-5d02-4ece-a169-c5201f13436f",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "Defender Side Water",
+      "x": 0.6208722682,
+      "y": 0.306990518,
+      "id": "191ffb97-8f91-4090-8075-9cffcab85d43",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.51001530874,
+      "y": 0.05080427600000004,
+      "id": "6157cf57-46eb-4d47-b8e0-049f12e0ef8c",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "A Flowers",
+      "x": 0.6760415434,
+      "y": 0.19342641800000016,
+      "id": "2d4ca0f9-f9e9-45c3-90f9-d04d72cb15d2",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "A Secret",
+      "x": 0.7793269906,
+      "y": 0.10028076800000008,
+      "id": "5aa52d88-6202-411f-9978-a45189814de3",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "A Dugout",
+      "x": 0.9370861791999999,
+      "y": 0.3184845434000001,
+      "id": "b9973bc3-449e-4b31-bfdf-431b9b3071f6",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.9148919812,
+      "y": 0.40013601200000015,
+      "id": "b9e1fefe-9b27-4151-a283-e6935a418ec4",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "Defender Side Records",
+      "x": 0.3657881194,
+      "y": 0.21611014400000006,
+      "id": "6ece0c2f-bcc1-4551-baec-e7bf8f56c69d",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "Mid Top",
+      "x": 0.537019,
+      "y": 0.7541660000000001,
+      "id": "f9288e4c-6c26-4b6f-a5c4-dea4b6e6343f",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "B Tunnel",
+      "x": 0.3123686806,
+      "y": 0.21611014400000006,
+      "id": "c515361a-5bd9-49c6-8e7e-c9335ed0e058",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "B Tower",
+      "x": 0.2580635752,
+      "y": 0.25040900600000005,
+      "id": "99495627-d0c4-4c4e-98ca-b8f7462ff8ee",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "A Main",
+      "x": 0.7788189999999999,
+      "y": 0.4192674386000001,
+      "id": "5d42d63d-302c-48cd-bbad-e5460c6fa420",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "A Restaurant",
+      "x": 0.6998928825999999,
+      "y": 0.5704407440000001,
+      "id": "6736786e-ee9b-4188-b7a9-923733003471",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "B Link",
+      "x": 0.4343207407,
+      "y": 0.5647536626,
+      "id": "bdac18d1-7593-48ad-b449-33876fd5d51a",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "A Art",
+      "x": 0.7462056868,
+      "y": 0.5601839000000001,
+      "id": "a07845f9-bbcb-4ff9-94ea-df1e9b816a7a",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "A Link",
+      "x": 0.775519912,
+      "y": 0.44370958880000005,
+      "id": "8394fdbd-981e-4f00-897b-c5d017cf858c",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "Mid Plaza",
+      "x": 0.455119,
+      "y": 0.701516,
+      "id": "070b4dfa-5eb5-40b1-9218-a0e8d88dc181",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "Mid Shops",
+      "x": 0.367369,
+      "y": 0.853616,
+      "id": "13b9b429-adde-4cd4-946d-d8906e55c3d1",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "B Club",
+      "x": 0.367369,
+      "y": 0.853616,
+      "id": "f6b7f9cb-31d8-4a95-ab3a-f76e0894bd57",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "B Ramp",
+      "x": 0.18406899999999998,
+      "y": 0.7795160000000001,
+      "id": "19b975d1-1510-4354-a7e8-0a574724515b",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "B Main",
+      "x": 0.13921899999999998,
+      "y": 0.6001160000000001,
+      "id": "70a9e383-effd-484f-96fd-3d2e5bba40df",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.258169,
+      "y": 0.4636160000000001,
+      "id": "e0143d79-62cb-4767-9fb9-94c867069cbb",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "B Screen",
+      "x": 0.09039622599999997,
+      "y": 0.42770225720000005,
+      "id": "6002687a-5766-4f20-9f2a-4d204724b778",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "d118f469-aa88-4161-be2e-6211a953c1a3",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.43366899999999997,
+      "y": 0.9589160000000001,
+      "id": "d5ee5694-4989-46ad-8af4-fc7c3b026291",
+      "createdAt": "2026-09-27T19:42:53.661Z",
+      "updatedAt": "2026-09-27T19:42:53.661Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "A Back",
+      "x": 0.2292608410000001,
+      "y": 0.12466417800000007,
+      "id": "a005ecfe-2853-4c91-9983-9c34ef82a32f",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "A Lobby",
+      "x": 0.6504837496,
+      "y": 0.16606907400000004,
+      "id": "b0505903-1911-43fc-9799-da062fe28275",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "A Main",
+      "x": 0.4917470260000001,
+      "y": 0.207739599,
+      "id": "60ac6ae8-1f76-4172-91d2-e6118925e665",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "A Rafters",
+      "x": 0.35402952400000004,
+      "y": 0.2736693720000001,
+      "id": "564c0b5d-d826-46e6-b2a5-d987d654d535",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "A Ramps",
+      "x": 0.47168800000000005,
+      "y": 0.35983800000000005,
+      "id": "6beff823-246a-40ae-a6d3-af957b61d4ca",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "A Screens",
+      "x": 0.150436342,
+      "y": 0.25697827680000007,
+      "id": "b932afcd-bfcc-4e85-890c-64139a373163",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "A Sewer",
+      "x": 0.6575418916000001,
+      "y": 0.31829470080000005,
+      "id": "78f731be-f4c5-4e0b-87a8-34c6b5fc0a2f",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.31481978200000005,
+      "y": 0.1836625434,
+      "id": "5f0f683d-7902-4a41-9ab7-5d5d491dbad5",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "A Tower",
+      "x": 0.31582579480000006,
+      "y": 0.3359081850000001,
+      "id": "4f5ff830-23d2-4c50-97ee-9ab42f53f4cf",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.846835931626,
+      "y": 0.5492243400000001,
+      "id": "0cb6aad6-6599-4288-8a2d-5efcbfc1ad2e",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "B Alley",
+      "x": 0.21301652199999999,
+      "y": 0.7879023744,
+      "id": "7029c549-d33a-4165-8579-0a45f96333de",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "B Back",
+      "x": 0.2636416654000001,
+      "y": 0.939938118,
+      "id": "6760088b-11d8-4ce2-b8b1-109d13c1f268",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "B Link",
+      "x": 0.657344848,
+      "y": 0.69973627053,
+      "id": "0ceb7291-3537-4b23-be59-47aa7cd54d70",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "B Garage",
+      "x": 0.5420417146000001,
+      "y": 0.8684590506000001,
+      "id": "db8ffa50-abca-44dd-acdc-16575586974d",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "B Rafters",
+      "x": 0.36867989740000007,
+      "y": 0.7472748966,
+      "id": "5e779896-3fe8-4ae4-bbf0-8ab5363bd193",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.3535358230000001,
+      "y": 0.8666231568,
+      "id": "7a03086c-6fea-4ebf-ad83-9b6a7ba6063f",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "B Stairs",
+      "x": 0.31483187200000007,
+      "y": 0.614781546,
+      "id": "108fc5a3-70a3-4daa-81da-3bd339e711cc",
+      "createdAt": "2026-09-27T19:42:53.738Z",
+      "updatedAt": "2026-09-27T19:42:53.738Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "B Tower",
+      "x": 0.42955286800000003,
+      "y": 0.68440412058,
+      "id": "c30747d7-3c2d-48fe-9cc4-6ab59c0dd182",
+      "createdAt": "2026-09-27T19:42:53.739Z",
+      "updatedAt": "2026-09-27T19:42:53.739Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "B Lobby",
+      "x": 0.6874652656,
+      "y": 0.7967660838,
+      "id": "7dbf17d6-9a7d-4e75-9fad-d490b5d01142",
+      "createdAt": "2026-09-27T19:42:53.739Z",
+      "updatedAt": "2026-09-27T19:42:53.739Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.1429204180000001,
+      "y": 0.530473647,
+      "id": "a2a20427-448d-4f5f-b3a3-ab008ee96553",
+      "createdAt": "2026-09-27T19:42:53.739Z",
+      "updatedAt": "2026-09-27T19:42:53.739Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "Mid Bottom",
+      "x": 0.6160299172000001,
+      "y": 0.5476108944,
+      "id": "2b4883e6-7789-48f2-b5b6-761c67946422",
+      "createdAt": "2026-09-27T19:42:53.739Z",
+      "updatedAt": "2026-09-27T19:42:53.739Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "Mid Mail",
+      "x": 0.4671137992,
+      "y": 0.6074620026,
+      "id": "95b6b74e-1134-49eb-8f2a-b467cdf18ebe",
+      "createdAt": "2026-09-27T19:42:53.739Z",
+      "updatedAt": "2026-09-27T19:42:53.739Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "Mid Top",
+      "x": 0.4836269920000001,
+      "y": 0.539865315,
+      "id": "9d2d3e50-1892-4ada-aaca-137de22637dd",
+      "createdAt": "2026-09-27T19:42:53.739Z",
+      "updatedAt": "2026-09-27T19:42:53.739Z"
+    },
+    {
+      "mapVersionId": "ce2ebc40-0543-4f79-919b-1949b6ed80d5",
+      "type": "callout",
+      "name": "Mid Vent",
+      "x": 0.42578332300000005,
+      "y": 0.4514751456,
+      "id": "1e47ed2e-df58-4aaf-802f-29b810f7e5cc",
+      "createdAt": "2026-09-27T19:42:53.739Z",
+      "updatedAt": "2026-09-27T19:42:53.739Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "Mid Bottom",
+      "x": 0.48427599999999993,
+      "y": 0.41639099999999996,
+      "id": "6197bc03-dbde-4831-a67a-31f2823db3e5",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "Mid Top",
+      "x": 0.5367759999999999,
+      "y": 0.6770160000000001,
+      "id": "aaa81423-7c77-4bde-be5e-7adafe9233dd",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "A Lobby",
+      "x": 0.694276,
+      "y": 0.7407660149999999,
+      "id": "0af58e19-9862-4204-9693-837d217a9d51",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "A Main",
+      "x": 0.694276,
+      "y": 0.566391,
+      "id": "0a4aa0f8-5af7-4b0a-ad44-081bef0ea777",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "A Garden",
+      "x": 0.7917759999999999,
+      "y": 0.403266,
+      "id": "435d459e-56c5-410b-b7b2-210d9ddb7345",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.9174009999999999,
+      "y": 0.403266,
+      "id": "786e8f8e-c10c-4481-878f-9b6d0d04d53f",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "A Art",
+      "x": 0.7917759999999999,
+      "y": 0.264516,
+      "id": "19d5c911-2ab5-4c92-8f6f-7e352aac2b42",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "A Cave",
+      "x": 0.956776,
+      "y": 0.264516,
+      "id": "4a3740ed-20ec-4611-a9fb-4ed3e670f2c5",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "A Hall",
+      "x": 0.6924009999999999,
+      "y": 0.264516,
+      "id": "731819bd-bcda-4f0b-95b9-2ebeda602a29",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "A Link",
+      "x": 0.6511509999999999,
+      "y": 0.36014100000000004,
+      "id": "9990d24b-636b-4305-8b48-7f936495299b",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "B Lobby",
+      "x": 0.289276,
+      "y": 0.594516,
+      "id": "40124bee-9138-4fe4-81c5-c3223709e79e",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.5105259999999999,
+      "y": 0.07326600000000005,
+      "id": "0dc29964-02fe-41ea-96dd-5ca6c4d71a00",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "Mid Window",
+      "x": 0.48427599999999993,
+      "y": 0.326391,
+      "id": "831b9475-efab-4f93-b8c5-33fc104a76f9",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "B Gym",
+      "x": 0.279901015,
+      "y": 0.18951600000000002,
+      "id": "c12d2a69-436e-4e23-956f-db2eb476b36d",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "B Trophy",
+      "x": 0.32302601499999994,
+      "y": 0.29826600000000003,
+      "id": "c26240bd-49df-4390-8459-e9e221086542",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "B Tower",
+      "x": 0.1561510075,
+      "y": 0.215766,
+      "id": "cb4e00ff-f825-49c7-aa75-073de610777b",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "B Drop",
+      "x": 0.05302601125,
+      "y": 0.24014100000000005,
+      "id": "fb1e3a5d-1ec5-4b23-9962-2257f60c5cd9",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.1505260075,
+      "y": 0.33764099999999997,
+      "id": "a7fa8a02-7fed-47e8-aafa-edd19b22e7b6",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "B Link",
+      "x": 0.330526,
+      "y": 0.41639099999999996,
+      "id": "81fd5d42-0989-4621-90ef-9d7337f80ddf",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "Mid Fountain",
+      "x": 0.5105259999999999,
+      "y": 0.553266,
+      "id": "d058789b-8e44-4c3b-8d06-1b4969be1b79",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "Mid Bend",
+      "x": 0.636151,
+      "y": 0.493266,
+      "id": "a161965b-690d-4010-aaab-5e57b9ac5bb9",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "Mid Tiles",
+      "x": 0.36491942499999996,
+      "y": 0.60682065,
+      "id": "aa0e60b3-a038-4c85-90bc-06f5cc5a6f42",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "B Main",
+      "x": 0.1861509925,
+      "y": 0.491391,
+      "id": "a3819bee-423e-47c8-8468-8ba8c2bf0ae5",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "271433ee-c4d3-402f-94b1-726056358262",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.039901,
+      "y": 0.8963909999999999,
+      "id": "9b2e0026-3cf6-4a64-9357-f29681fe0661",
+      "createdAt": "2026-09-27T19:42:53.836Z",
+      "updatedAt": "2026-09-27T19:42:53.836Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "B Boba",
+      "x": 0.1256,
+      "y": 0.344025,
+      "id": "47cf3d4b-ac9b-4ad5-8c13-571706f42085",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "Mid Tiles",
+      "x": 0.5312,
+      "y": 0.656025,
+      "id": "443f4a83-35e9-4d2a-ab3a-ac8d32af9f42",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "B Market",
+      "x": 0.2348,
+      "y": 0.531225,
+      "id": "3ec573f1-3cd2-46fc-8bed-27c2918e0397",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "spike",
+      "name": "B Site",
+      "x": 0.04370000000000002,
+      "y": 0.562425,
+      "id": "9749f0f7-774e-4c41-b19a-1b8949e0daf0",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "B Main",
+      "x": 0.05930000000000002,
+      "y": 0.671625,
+      "id": "7292f945-bfea-4820-8c45-da4feca5c032",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "B Lobby",
+      "x": 0.2972,
+      "y": 0.780825,
+      "id": "b5fa0778-cab2-4c96-a698-eee178a18959",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "Mid Bottom",
+      "x": 0.34204999999999997,
+      "y": 0.656025,
+      "id": "6b8d4fbe-e847-42d5-80b6-b7dcad0adaab",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "Mid Courtyard",
+      "x": 0.4064,
+      "y": 0.562425,
+      "id": "8f229dd8-6b63-43f0-b42b-2c61848ec9a1",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "A Lobby",
+      "x": 0.656,
+      "y": 0.656025,
+      "id": "c162d072-da46-434a-b5ce-3960a24018c2",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "A Main",
+      "x": 0.6716,
+      "y": 0.546825,
+      "id": "3830f8d5-3d72-4e09-a853-0f24d94cecae",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "A Link",
+      "x": 0.734,
+      "y": 0.344025,
+      "id": "b6baa0cf-b678-45a0-bc5d-55ffa63ecb10",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "spike",
+      "name": "A Site",
+      "x": 0.7496,
+      "y": 0.437625,
+      "id": "5beae76c-db6c-4057-bab6-59361d241383",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "A Elbow",
+      "x": 0.8276,
+      "y": 0.500025,
+      "id": "44aa3696-482b-4379-a0a2-5643b5fe0a6a",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "A Alley",
+      "x": 0.7807999999999999,
+      "y": 0.250425,
+      "id": "ac2bc278-045b-4f2d-9cef-38f383ae3dac",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "Defender Spawn",
+      "x": 0.3448504964,
+      "y": 0.21879767699999997,
+      "id": "7e0ebccd-d885-4310-8b32-2fa13e884ed0",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "Mid Top",
+      "x": 0.344,
+      "y": 0.359625,
+      "id": "52663285-2d65-4e51-ba51-3d6d63845a21",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    },
+    {
+      "mapVersionId": "dd7c075f-56f8-4cc2-aab0-f37adc447ff3",
+      "type": "callout",
+      "name": "Attacker Spawn",
+      "x": 0.4688,
+      "y": 0.985575,
+      "id": "24f3ea52-8878-45a9-924a-ba2b2b0d8f45",
+      "createdAt": "2026-09-27T19:42:53.908Z",
+      "updatedAt": "2026-09-27T19:42:53.908Z"
+    }
+  ],
   "lineups": []
 }
