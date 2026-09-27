@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T19:42:53.908Z",
+  "updatedAt": "2026-09-27T19:51:36.340Z",
   "maps": [
     {
       "id": "4db4f19f-c9cf-424b-8513-2c89a1d66a81",
@@ -3501,5 +3501,49 @@
       "updatedAt": "2026-09-27T19:42:53.908Z"
     }
   ],
-  "lineups": []
+  "lineups": [
+    {
+      "mapId": "5eb431bb-2b9b-47f1-b093-8bc6d619785d",
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.5346363186541316,
+        "y": 0.7727610094012866
+      },
+      "target": {
+        "x": 0.2513607125185552,
+        "y": 0.6342157347847601
+      },
+      "images": {
+        "aim": {
+          "originalId": "83a2d090f45d1403803fdced6e9e7840b7a3c6491759a5970e596d46f8f7ea75",
+          "thumbId": "a7ad888bd04cc92b1f5a9465e6ae7fa61b40003cc16fd827e83a30231972a5d4",
+          "width": 1920,
+          "height": 1080,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "1f561f65-379e-43aa-b8ef-f93943d5c5f1",
+                "center": {
+                  "x": 945.4380713534504,
+                  "y": 655.7673327400696
+                },
+                "radius": 33.238220174620125,
+                "color": "#ff3b30",
+                "width": 5
+              }
+            ]
+          },
+          "thumbVersion": 2
+        }
+      },
+      "note": "full 1 отскок",
+      "id": "56c8f3a2-db44-42af-b78b-6afdad94526a",
+      "createdAt": "2026-09-27T19:51:36.340Z",
+      "updatedAt": "2026-09-27T19:51:36.340Z"
+    }
+  ]
 }
