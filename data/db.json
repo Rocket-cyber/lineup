@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T19:51:36.340Z",
+  "updatedAt": "2026-09-27T19:57:46.769Z",
   "maps": [
     {
       "id": "4db4f19f-c9cf-424b-8513-2c89a1d66a81",
@@ -3544,6 +3544,62 @@
       "id": "56c8f3a2-db44-42af-b78b-6afdad94526a",
       "createdAt": "2026-09-27T19:51:36.340Z",
       "updatedAt": "2026-09-27T19:51:36.340Z"
+    },
+    {
+      "mapId": "5eb431bb-2b9b-47f1-b093-8bc6d619785d",
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "side": "defense",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.2677258606496436,
+        "y": 0.16564055802450353
+      },
+      "target": {
+        "x": 0.6414532209620729,
+        "y": 0.3014097926321119
+      },
+      "images": {
+        "start": {
+          "originalId": "d1e558c9c5a8786f095ef897fc2a787835c0a56b9186e27c4438ab11545598e2",
+          "thumbId": "4e3fbddf730d44e431b63c34a79e4a5f05c17994dc380ba74bb577ef70c15d84",
+          "width": 1920,
+          "height": 1080
+        },
+        "aim": {
+          "originalId": "fe79ee9bd7df3056b997067980890f009b2c1e69b5d2a3760d62e7f537d06218",
+          "thumbId": "e49b9dd86aa3bf36fffe363f2f8c40c82e8e2a101bbd739d61f4c2d94c51ae2a",
+          "width": 1920,
+          "height": 1080,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "612ee3c3-ebd6-49ad-ace8-94b9014b9b06",
+                "center": {
+                  "x": 959.7597770609642,
+                  "y": 540.0471155252233
+                },
+                "radius": 23.777379821167926,
+                "color": "#ff3b30",
+                "width": 5
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "adb9a49102df67de8e6c7250522fbf724c5d23f79f7e28014e35e950aed4bbc1",
+          "thumbId": "483ef1984dad248c332f86278e33ee7eb09b98ae376cb9d9ead3a6d9cd669263",
+          "width": 1920,
+          "height": 1080,
+          "thumbVersion": 2
+        }
+      },
+      "note": "2 charge 1 отскок",
+      "id": "a6bcc8a8-2af7-44dc-bde8-33d548aca092",
+      "createdAt": "2026-09-27T19:57:46.769Z",
+      "updatedAt": "2026-09-27T19:57:46.769Z"
     }
   ]
 }
