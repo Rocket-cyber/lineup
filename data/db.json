@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T20:04:14.965Z",
+  "updatedAt": "2026-09-27T20:16:57.007Z",
   "maps": [
     {
       "id": "4db4f19f-c9cf-424b-8513-2c89a1d66a81",
@@ -3721,6 +3721,77 @@
       "id": "a5edb7de-aacb-409f-bfe0-136cc6ab36b1",
       "createdAt": "2026-09-27T20:04:14.965Z",
       "updatedAt": "2026-09-27T20:04:14.965Z"
+    },
+    {
+      "mapId": "5eb431bb-2b9b-47f1-b093-8bc6d619785d",
+      "mapVersionId": "b27f971e-1a15-4fa9-abfc-1039b5142cf3",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.6995224447623917,
+        "y": 0.23472310400798063
+      },
+      "target": {
+        "x": 0.278005358794859,
+        "y": 0.21193226076525462
+      },
+      "images": {
+        "start": {
+          "originalId": "3cf22c3d13e4e1ff86425f80ab03df59b358f4d95fb4851ecb4a2e8c7e64f0f6",
+          "thumbId": "ceda34d70d41a8923be76d39acb8c97052e5b20e8dc8f9dc5df844925df4f3d2",
+          "width": 1920,
+          "height": 1080,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "8ab097b2-82f9-4e18-bf64-b4284ab3a5ff",
+                "center": {
+                  "x": 961.8847848590823,
+                  "y": 540.6970190295087
+                },
+                "radius": 79.09461393143752,
+                "color": "#ff3b30",
+                "width": 8
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "aim": {
+          "originalId": "27261170dc39985ec172f6c2b7cc71f602ddb232bd52bcaaaffd5e940a688dd0",
+          "thumbId": "cd324cd92051a172f8af8cd01c30c1dbb169cbe4eeef5974ede3b7689a8b8322",
+          "width": 1920,
+          "height": 1080,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "7f7f668c-7c2c-4174-be8f-4ee06fa43bce",
+                "center": {
+                  "x": 960,
+                  "y": 540
+                },
+                "radius": 38,
+                "color": "#ff3b30",
+                "width": 8
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "5110a1d0b6f4c6ea91119e23259f087e4faf09dc12ed7e05b659dd19959c203e",
+          "thumbId": "41352beeb72a3b85471ff19fbf7f5e7fe9b914804dc8acc90b6276fd01937590",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "id": "a6072faa-9506-4790-acdc-442e499ac10d",
+      "createdAt": "2026-09-27T20:16:27.100Z",
+      "updatedAt": "2026-09-27T20:16:57.007Z",
+      "note": "2 charge"
     }
   ]
 }
